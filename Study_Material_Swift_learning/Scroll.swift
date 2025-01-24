@@ -9,7 +9,7 @@ import SwiftUI
 
 struct Scroll: View {
     var body: some View {
-        Text("sanjeevan")
+        Text("jeevith")
         GeometryReader { geometry in
             ScrollView {
                 VStack(spacing: 20) {
